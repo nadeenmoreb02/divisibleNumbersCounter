@@ -1,0 +1,17 @@
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\bin\Debug\net6.0-windows\divisibleCounterWinFrm.exe
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\bin\Debug\net6.0-windows\divisibleCounterWinFrm.deps.json
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\bin\Debug\net6.0-windows\divisibleCounterWinFrm.runtimeconfig.json
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\bin\Debug\net6.0-windows\divisibleCounterWinFrm.dll
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\bin\Debug\net6.0-windows\divisibleCounterWinFrm.pdb
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\obj\Debug\net6.0-windows\divisibleCounterWinFrm.csproj.AssemblyReference.cache
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\obj\Debug\net6.0-windows\divisibleCounterWinFrm.Form1.resources
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\obj\Debug\net6.0-windows\divisibleCounterWinFrm.csproj.GenerateResource.cache
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\obj\Debug\net6.0-windows\divisibleCounterWinFrm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\obj\Debug\net6.0-windows\divisibleCounterWinFrm.AssemblyInfoInputs.cache
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\obj\Debug\net6.0-windows\divisibleCounterWinFrm.AssemblyInfo.cs
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\obj\Debug\net6.0-windows\divisibleCounterWinFrm.csproj.CoreCompileInputs.cache
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\obj\Debug\net6.0-windows\divisibleCounterWinFrm.dll
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\obj\Debug\net6.0-windows\refint\divisibleCounterWinFrm.dll
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\obj\Debug\net6.0-windows\divisibleCounterWinFrm.pdb
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\obj\Debug\net6.0-windows\divisibleCounterWinFrm.genruntimeconfig.cache
+C:\Users\AL-YAMEN\source\repos\divisibleCounterWinFrm\divisibleCounterWinFrm\obj\Debug\net6.0-windows\ref\divisibleCounterWinFrm.dll
